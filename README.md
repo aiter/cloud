@@ -8,4 +8,7 @@
 |2019上半年|中国|公有云|54.2亿美元|阿里云|腾讯云|中国电信|AWS|华为|金山|百度|[IDC](https://www.idc.com/getdoc.jsp?containerId=prCHC45634819)|
 
 
+美国国防部2019采购100亿美金(10年)的[订单](https://www.npr.org/2019/11/14/777585675/amazon-appeals-pentagons-choice-of-microsoft-for-10-billion-cloud-contract) 
+
+
 
